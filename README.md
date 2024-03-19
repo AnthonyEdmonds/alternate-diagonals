@@ -9,6 +9,8 @@ This Foundry VTT module allows you to apply the alternate diagonals rule to a ga
 
 This is the standard for Pathfinder 2nd Edition, where the first diagonal square costs 5ft of movement, the second 10ft, the third 5ft, and so on.
 
+The code for calculating diagonal movement has been adapted from [D&D5e for Foundry VTT](https://github.com/foundryvtt/dnd5e).
+
 ## Installation
 
 Either search for and install this module within Foundry VTT, or copy this address into the `Manifest URL` bar:
