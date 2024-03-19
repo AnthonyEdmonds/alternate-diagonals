@@ -1,0 +1,18 @@
+{
+    "id": "alternate-diagonals",
+    "title": "Alternate Diagonals",
+    "description": "A simple module which sets the grid to use the alternating diagonals rule.",
+    "authors": [
+        {
+            "name": "Anthony Edmonds"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "esmodules": [
+        "grid.js"
+    ]
+}
