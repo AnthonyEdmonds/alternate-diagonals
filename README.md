@@ -14,7 +14,7 @@ This is the standard for Pathfinder 2nd Edition, where the first diagonal square
 Either search for and install this module within Foundry VTT, or copy this address into the `Manifest URL` bar:
 
 ```
-https://github.com/AnthonyEdmonds/alternate-diagonals/module.json
+https://raw.githubusercontent.com/AnthonyEdmonds/alternate-diagonals/main/module.json
 ```
 
 ## Usage

@@ -2,9 +2,13 @@
     "id": "alternate-diagonals",
     "title": "Alternate Diagonals",
     "description": "A simple module which sets the grid to use the alternating diagonals rule.",
+    "url": "https://github.com/AnthonyEdmonds/alternate-diagonals",
+    "manifest": "https://raw.githubusercontent.com/AnthonyEdmonds/alternate-diagonals/main/module.json",
+    "download": "https://github.com/AnthonyEdmonds/alternate-diagonals/archive/refs/tags/0.0.0-dev.zip",
     "authors": [
         {
-            "name": "Anthony Edmonds"
+            "name": "Anthony Edmonds",
+            "url": "https://github.com/AnthonyEdmonds"
         }
     ],
     "version": "1.0.0",
