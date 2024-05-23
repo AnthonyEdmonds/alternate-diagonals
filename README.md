@@ -1,6 +1,12 @@
 # alternate-diagonals
 A simple module for Foundry VTT which sets the grid to use alternating diagonals.
 
+## This is not required for Foundry v12+
+
+As of Foundry v12 you can now set the diagonal rules for your game under **Configure Settings -> Core -> Square Grid Diagonals**.
+
+This library will be archived for Foundry v11 users.
+
 ## About
 
 This Foundry VTT module allows you to apply the alternate diagonals rule to a game system, notably the "Simple World-Building" system.
